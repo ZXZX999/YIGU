@@ -4,24 +4,25 @@
 
 
 {
-         "name": "ชื่อเซิร์ฟ",
-         "url": "ไฟล์ovpn"
+         "name": "AIS-CAT-TH-01-FREE",
+         "url": "https://raw.githubusercontent.com/ZXZX999/YIGU/main/FREE-TH-02-AIS-ais-play.ovpn"
       }
 ,
 {
-         "name": "ชื่อเซิร์ฟ",
-         "url": "ไฟล์ovpn"
+         "name": "DTAC-CAT-TH-01-FREE",
+         "url": "https://raw.githubusercontent.com/ZXZX999/YIGU/main/FREE-TH-02-DTAC-no-pro.ovpn"
       }
 ,
 {
-         "name": "ชื่อเซิร์ฟ",
-         "url": "ไฟล์ovpn"
+         "name": "TRUE-CAT-TH-01-FREE",
+         "url": "https://raw.githubusercontent.com/ZXZX999/YIGU/main/FREE-TH-02-TRUE-no-pro.ovpn"
       }
 
 
    ],
 "message":"
-*อะไรก็ได้ตามใจ
+
+ดีดียบระตกันกบคเตลัตลเตบเตล
 
 \n\nUpdate:1",
 "title":"New Update File" ,
